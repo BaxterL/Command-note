@@ -4,5 +4,5 @@
 
 [传送门](http://note.wzjx.xyz)
 
-采用Markdown编写起来更方便，页面也超级清爽(我才不会说我是mk直接生成html然后糊上面的)
+采用Markdown编写起来更方便，页面也超级清爽
 

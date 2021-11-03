@@ -303,3 +303,5 @@ loop.json是村庄生成模板
 ![](../../.gitbook/assets/1.gif)
 
 ↑被气疯的一个小点
+
+传送门✅[https://www.mcbbs.net/thread-1273515-1-1.html](https://www.mcbbs.net/thread-1273515-1-1.html)
