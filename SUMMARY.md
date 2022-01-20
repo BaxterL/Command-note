@@ -3,7 +3,7 @@
 * [引言](README.md)
 * [准备](zhun-bei.md)
 
-## 指令教学 <a href="first" id="first"></a>
+## 指令教学 <a href="#first" id="first"></a>
 
 ***
 
@@ -17,6 +17,7 @@
     * [计分板运算](problem/normal/scb.md)
     * [穷举](problem/normal/enumerating.md)
   * [较难](problem/expert/README.md)
+    * [数据库](problem/expert/shu-ju-ku.md)
     * [自定义结构生成](problem/expert/zi-ding-yi-jie-gou-sheng-cheng.md)
     * [获取放置非实体方块信息](problem/expert/huo-qu-fang-zhi-fei-shi-ti-fang-kuai-xin-xi.md)
     * [全息点击](problem/expert/qxdj.md)
