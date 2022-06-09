@@ -20,5 +20,5 @@
 >
 > 部分内容引用自Minecraft 中文wiki:
 >
-> [https://minecraft-zh.gamepedia.com/](https://minecraft-zh.gamepedia.com)
+> [https://minecraft-zh.gamepedia.com/](https://minecraft-zh.gamepedia.com/)
 

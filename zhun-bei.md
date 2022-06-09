@@ -4,12 +4,12 @@
 
 > Visual Studio Code:
 >
-> [https://code.visualstudio.com/](https://code.visualstudio.com)
+> [https://code.visualstudio.com/](https://code.visualstudio.com/)
 >
 > 一部分生成器地址:
 >
 > [https://www.mcmod.cn/tools/cbcreator/](https://www.mcmod.cn/tools/cbcreator/)
 >
-> [http://minecraft.tools/](http://minecraft.tools)
+> [http://minecraft.tools/](http://minecraft.tools/)
 
 同时，你也必须会英语，起码要会看一点点英语。不然你看着那堆NBT和命令会很头疼的，而且你也很难看wiki。
